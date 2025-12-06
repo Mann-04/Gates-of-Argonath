@@ -2,6 +2,8 @@
 
 An AI-driven booking assistant chatbot that supports RAG (Retrieval-Augmented Generation) using user-uploaded PDFs, conversational booking flow, and email confirmations.
 
+*Use it now: https://gates-of-argonath-j7jlwclgkb5bk5cznqh9gu.streamlit.app/*
+
 ## Features
 
 - 🤖 **RAG Chatbot**: Upload PDFs and ask questions based on their content
