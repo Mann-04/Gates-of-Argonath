@@ -80,7 +80,7 @@ streamlit run app/main.py
 
 4. **Chat**: Use the "Chat" page to:
    - Ask questions about uploaded PDFs (RAG)
-   - Make bookings by saying things like "I want to book a doctor appointment"
+   - Make bookings by saying things like "I want to book 3 tickets for the convention"
    - Search the web for information
 
 5. **Admin Dashboard**: View all bookings, search by name/email/date, and see statistics
