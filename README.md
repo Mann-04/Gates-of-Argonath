@@ -87,7 +87,7 @@ streamlit run app/main.py
 
 ## Booking Flow
 
-1. User expresses booking intent (e.g., "I want to book a doctor appointment")
+1. User expresses booking intent (e.g., "I want to book a ticket")
 2. Bot detects intent and starts collecting information:
    - Customer name
    - Email
